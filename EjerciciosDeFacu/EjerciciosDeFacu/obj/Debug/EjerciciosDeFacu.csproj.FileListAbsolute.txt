@@ -1,0 +1,11 @@
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\obj\Debug\EjerciciosDeFacu.csproj.AssemblyReference.cache
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\obj\Debug\EjerciciosDeFacu.csproj.SuggestedBindingRedirects.cache
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\obj\Debug\EjerciciosDeFacu.Form1.resources
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\obj\Debug\EjerciciosDeFacu.Properties.Resources.resources
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\obj\Debug\EjerciciosDeFacu.csproj.GenerateResource.cache
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\obj\Debug\EjerciciosDeFacu.csproj.CoreCompileInputs.cache
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\bin\Debug\EjerciciosDeFacu.exe.config
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\bin\Debug\EjerciciosDeFacu.exe
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\bin\Debug\EjerciciosDeFacu.pdb
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\obj\Debug\EjerciciosDeFacu.exe
+C:\Users\matig\OneDrive\Documentos\GitHub\Ejercicios\EjerciciosDeFacu\EjerciciosDeFacu\obj\Debug\EjerciciosDeFacu.pdb
