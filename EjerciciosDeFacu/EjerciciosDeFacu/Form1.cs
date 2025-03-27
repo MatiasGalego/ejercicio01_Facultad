@@ -8,19 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Facultad
+namespace EjerciciosDeFacu
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void btnSaludar_Click(object sender, EventArgs e)
-        {
-            String nombre = txtNombre.Text;
-            MessageBox.Show("Hola " + nombre);
         }
     }
 }
